@@ -133,7 +133,7 @@ admin.html
 </section>
 
 <footer>
-    © Designed by rakesh s.
+    © Designed by Bhavan m s.
 </footer>
 </body>
 </html>
