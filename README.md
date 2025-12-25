@@ -173,7 +173,7 @@ contact.html
 </section>
 
 <footer>
-    © Designed by Bhavan M S.
+    @ designed by Bhavan m s.
 </footer>
 
 </body>
